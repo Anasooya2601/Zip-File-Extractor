@@ -27,3 +27,5 @@ pip install Flask pdfminer.six zipfile
 
 https://user-images.githubusercontent.com/66460324/226848201-c061e835-3d19-422e-a056-3a7ed22e3c04.mp4
 
+### To access all the files and run on ur local pc, u can download   
+<img width="413" alt="Screenshot 2023-03-23 at 10 46 11 AM" src="https://user-images.githubusercontent.com/66460324/227110196-fe076964-3916-4482-b925-9bd94540a307.png">
