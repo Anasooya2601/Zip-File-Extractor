@@ -8,7 +8,6 @@
 
 ### About the project : 
 
-An WebApp which does following things
 - unziping zip file which has pdf files ( Research papers )
 - extracting information from PDF files 
 - searching through them 
